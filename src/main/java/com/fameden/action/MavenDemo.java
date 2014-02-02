@@ -6,7 +6,7 @@ public class MavenDemo extends ActionSupport{
 
 	private static final long serialVersionUID = 1L;
 
-	public String message = "Hello PlusMinus....";
+	public String message = "Hello FameDen....";
 	
 	public String getMessage() {
 		return message;
