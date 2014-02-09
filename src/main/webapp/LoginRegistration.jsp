@@ -7,16 +7,17 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <link rel="stylesheet" href="LoginRegistration.css" type="text/css" media="screen">
 <title>FameDen</title>
-<
+
 </head>
 <body>
 <div>
 <s:form action="Login">
 <s:textfield name="userName" label="Username"></s:textfield>
 <s:textfield name="password" label="Password"></s:textfield>
-<s:submit value="Sign Up"></s:submit>
+<center><s:submit value="Sign Up"></s:submit></center>
 </s:form>
 </div>
+<center>
 <div class=transbox>
 <div id=Registration >
 <s:form action="Register">
@@ -29,5 +30,6 @@
 </s:form>
 </div>
 </div>
+</center>
 </body>
 </html>

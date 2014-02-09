@@ -11,7 +11,7 @@ body
 }
 
 #Login 
-{ width: auto; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black;opacity:1.0 } 
+{ width: auto; margin:auto; padding: 20px; background: grey; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black;opacity:0.8 } 
 { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
 
 #page-wrap {
