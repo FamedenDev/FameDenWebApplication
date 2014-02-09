@@ -7,9 +7,14 @@
 
 
 <struts>
-	<package name="basicStruts" extends="struts-default">
+	<package name="basicStruts" namespace="/ravjot" extends="struts-default">
 		<action name="hello" class="com.fameden.action.MavenDemo">
-			<result name="success">/index.jsp</result>
+			<result name="success">index.jsp</result>
+		</action>
+	</package>
+	<package name="loginRegistration"  extends="struts-default">
+		<action name="login" class="com.fameden.action.RegisterAction">
+			<result name="success">LoginRegistration.jsp</result>
 		</action>
 	</package>
 

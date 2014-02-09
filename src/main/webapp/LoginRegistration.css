@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+
+
+body
+{
+	background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#Login 
+{ width: auto; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black;opacity:1.0 } 
+{ font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
+
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+
+.transbox
+  {
+  width:400px;
+  height:180px;
+  margin:30px 50px;
+  background-color:#ffffff;
+  border:1px solid black;
+  opacity:0.8;
+  filter:alpha(opacity=80); /* For IE8 and earlier */
+  }
