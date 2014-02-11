@@ -13,7 +13,7 @@
 <div>
 <s:form action="Login">
 <s:textfield name="userName" label="Username"></s:textfield>
-<s:textfield name="password" label="Password"></s:textfield>
+<s:password name="password" label="Password"/>
 <center><s:submit value="Sign Up"></s:submit></center>
 </s:form>
 </div>
@@ -23,9 +23,10 @@
 <s:form action="Register">
 <s:textfield name="fullname" label="Full Name"></s:textfield>
 <s:textfield name="email" label="Email"></s:textfield>
-<s:textfield name="password" label="Password"></s:textfield>
-<s:textfield name="re-enter password" label="Re-Enter Password"></s:textfield>
+<s:password name="password" label="Password"/>
+<s:password  name="re-enter password" label="Re-Enter Password"/>
 <s:radio list="{'Male','Female'}" name="gender"></s:radio>
+
 <s:submit value="Sign Up"></s:submit>
 </s:form>
 </div>
