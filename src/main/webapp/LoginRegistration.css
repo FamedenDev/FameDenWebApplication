@@ -1,14 +1,14 @@
 @CHARSET "ISO-8859-1";
 
 
-body
+/*body
 {
 	background: url(images/bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
+}*/
 
 #Login 
 { width: auto; margin:auto; padding: 20px; background: grey; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black;opacity:0.8 } 
