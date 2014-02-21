@@ -12,9 +12,16 @@
 <body>
 <div>
 <s:form action="Login">
-<s:textfield name="userName" label="Username"></s:textfield>
-<s:textfield name="password" label="Password"></s:textfield>
-<center><s:submit value="Sign Up"></s:submit></center>
+<img alt="Logo" src="images/Logo.jpg">
+
+
+
+
+<input name="userName" type="text" value="Username"></input>
+
+
+<input name="password" type="password" value="Password"></input>
+<input type="button" value="Login" ></input>
 </s:form>
 </div>
 <center>
