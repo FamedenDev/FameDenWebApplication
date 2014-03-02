@@ -16,16 +16,11 @@
 <<<<<<< HEAD
 <div>
 <s:form action="Login">
-<img alt="Logo" src="images/Logo.jpg">
+<img alt="Logo" src="images/Logo.jpg" align="left">
+<input type="button" value="Login" align="right"></input>
+<input name="userName" type="text" value="Username" align="right"></input>
+<input name="password" type="password" value="Password" align="right"></input>
 
-
-
-
-<input name="userName" type="text" value="Username"></input>
-
-
-<input name="password" type="password" value="Password"></input>
-<input type="button" value="Login" ></input>
 </s:form>
 </div>
 <center>
