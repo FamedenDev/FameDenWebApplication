@@ -13,32 +13,7 @@
 
 </head>
 <body>
-<<<<<<< HEAD
-<div>
-<s:form action="Login">
-<img alt="Logo" src="images/Logo.jpg" align="left">
-<input type="button" value="Login" align="right"></input>
-<input name="userName" type="text" value="Username" align="right"></input>
-<input name="password" type="password" value="Password" align="right"></input>
 
-</s:form>
-</div>
-<center>
-<div class=transbox>
-<div id=Registration >
-<s:form action="Register">
-<s:textfield name="fullname" label="Full Name"></s:textfield>
-<s:textfield name="email" label="Email"></s:textfield>
-<s:textfield name="password" label="Password"></s:textfield>
-<s:textfield name="re-enter password" label="Re-Enter Password"></s:textfield>
-<s:radio list="{'Male','Female'}" name="gender"></s:radio>
-<s:submit value="Sign Up"></s:submit>
-</s:form>
-</div>
-</div>
-</center>
-=======
-	
 	<div>
 		<s:form action="Login">
 			<div align="right">
@@ -188,10 +163,10 @@
                                                 <img src="http://lh5.googleusercontent.com/-0riLGz6H7W8/AAAAAAAAAAI/AAAAAAAABpg/uylpqFbzXeE/photo.jpg" style="float:left;width:24px;margin-right:5px;"/>
                                                 <div style="display:inline;color:#CC0000;font-weight:bold;">Honey Singh</div> liked your post "What is your favorite book of all time?"
                                                 <hr style="border:none;border-bottom:1px solid #777777;"/>
-                                                <img src="http://buckysroom.com/images/defaultProfileImage.png" style="float:left;width:24px;margin-right:5px;"/>
+                                                <img src="http://lh5.googleusercontent.com/-0riLGz6H7W8/AAAAAAAAAAI/AAAAAAAABpg/uylpqFbzXeE/photo.jpg" style="float:left;width:24px;margin-right:5px;"/>
                                                 <div style="display:inline;color:#CC0000;font-weight:bold;">Honey Singh</div> liked your post "What is your favorite book of all time?"
                                                 <hr style="border:none;border-bottom:1px solid #777777;"/>
-                                                <img src="http://buckysroom.com/images/defaultProfileImage.png" style="float:left;width:24px;margin-right:5px;"/>
+                                                <img src="http://lh5.googleusercontent.com/-0riLGz6H7W8/AAAAAAAAAAI/AAAAAAAABpg/uylpqFbzXeE/photo.jpg" style="float:left;width:24px;margin-right:5px;"/>
                                                 <div style="display:inline;color:#CC0000;font-weight:bold;">Honey Singh</div> liked your post "What is your favorite book of all time?"
                                         </span>
                                 </a>
@@ -199,6 +174,5 @@
                 </ul>
  
         </div>
->>>>>>> ee4239fcaf6ea0f0b634dfeee62be8673fa4f3f1
 </body>
 </html>
