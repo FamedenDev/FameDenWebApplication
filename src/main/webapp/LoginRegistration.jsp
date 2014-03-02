@@ -13,7 +13,6 @@
 
 </head>
 <body>
-
 	<div>
 		<s:form action="Login">
 			<div align="right">
